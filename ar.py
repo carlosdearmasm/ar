@@ -1,8 +1,6 @@
 import cv2
 import numpy as np
 
-# kike was here, cogiendote el culete!!!!
-
 cap = cv2.VideoCapture(0)
 myVid = cv2.VideoCapture("video.mp4")
 vdflñmbl
